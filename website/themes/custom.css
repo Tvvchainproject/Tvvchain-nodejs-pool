@@ -1,0 +1,11 @@
+
+
+.infoBox .content .value {
+  font-size: 24px;
+  color: #fff;
+  text-shadow: 0px 0px 0px #000;
+}
+.infoBox .content .value .smallText {
+  font-size: 14px;
+  font-weight: normal;
+}
